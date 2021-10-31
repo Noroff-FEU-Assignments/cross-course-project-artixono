@@ -1,0 +1,91 @@
+/* General */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #153D4D;
+    
+}
+
+.homepage-message {
+    position: relative;
+    left: 278px;
+}
+
+.limits {
+    color: #308EB3;
+}
+
+.explore {
+    color: #fff;
+}
+
+.adventure {
+    color: #266F8C;
+}
+
+/* Images */
+
+.logo {
+    width: 200px;
+    height: 100px;
+    position: relative;
+    top: 125px;
+    left: 50px;
+}
+
+.fog-view {
+    width: 100%;
+    width: 600px;
+    height: 400px;
+    position: relative;
+    left: 1090px;
+    bottom: 220px;
+}
+
+/* Nav */
+
+nav {
+    background-color: #308EB3;
+    width: 1920px;
+    height: 170px;
+}
+
+nav ul {
+    padding: 0px;
+}
+
+nav li {
+    display: inline-block;
+    position: relative;
+    top: 95px;
+    left: 910px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.searchbar {
+    position: relative;
+    top: 30px;
+    text-align:center;
+ 
+}
+
+.nav-bar {
+    position: relative;
+    bottom: 115px;
+    right: 10px;
+}
+
+/* Footer */
+
+footer {
+    padding: 0px;
+    background-color: #308EB3;
+    height: 170px;
+    width: 1920px;
+    position: relative;
+    right: 10px;
+    top: 10px;
+}
